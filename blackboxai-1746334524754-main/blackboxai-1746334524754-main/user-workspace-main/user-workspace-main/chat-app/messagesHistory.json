@@ -1,0 +1,42 @@
+{
+  "user1": [
+    {
+      "from": "user1",
+      "timestamp": "2025-05-04T04:20:02.441Z",
+      "messageId": "f02b8e4f-3d10-46bb-9b02-9713b30672b0",
+      "message": "Hii"
+    },
+    {
+      "from": "user2",
+      "timestamp": "2025-05-04T04:24:49.244Z",
+      "messageId": "2a8bd446-8fae-4e62-8b31-199bb188728f",
+      "message": "Hoo"
+    },
+    {
+      "from": "user1",
+      "timestamp": "2025-05-04T04:58:17.293Z",
+      "messageId": "e9d1a0e8-9bad-48a6-96ec-b73923c09f1b",
+      "message": "How are you"
+    }
+  ],
+  "user2": [
+    {
+      "from": "user1",
+      "timestamp": "2025-05-04T04:20:02.441Z",
+      "messageId": "f02b8e4f-3d10-46bb-9b02-9713b30672b0",
+      "message": "Hii"
+    },
+    {
+      "from": "user2",
+      "timestamp": "2025-05-04T04:24:49.244Z",
+      "messageId": "2a8bd446-8fae-4e62-8b31-199bb188728f",
+      "message": "Hoo"
+    },
+    {
+      "from": "user1",
+      "timestamp": "2025-05-04T04:58:17.293Z",
+      "messageId": "e9d1a0e8-9bad-48a6-96ec-b73923c09f1b",
+      "message": "How are you"
+    }
+  ]
+}
