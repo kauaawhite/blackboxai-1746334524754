@@ -1,0 +1,30 @@
+{
+  "user1": [
+    {
+      "from": "user1",
+      "timestamp": "2025-05-04T04:20:02.441Z",
+      "messageId": "f02b8e4f-3d10-46bb-9b02-9713b30672b0",
+      "message": "Hii"
+    },
+    {
+      "from": "user2",
+      "timestamp": "2025-05-04T04:24:49.244Z",
+      "messageId": "2a8bd446-8fae-4e62-8b31-199bb188728f",
+      "message": "Hoo"
+    }
+  ],
+  "user2": [
+    {
+      "from": "user1",
+      "timestamp": "2025-05-04T04:20:02.441Z",
+      "messageId": "f02b8e4f-3d10-46bb-9b02-9713b30672b0",
+      "message": "Hii"
+    },
+    {
+      "from": "user2",
+      "timestamp": "2025-05-04T04:24:49.244Z",
+      "messageId": "2a8bd446-8fae-4e62-8b31-199bb188728f",
+      "message": "Hoo"
+    }
+  ]
+}
